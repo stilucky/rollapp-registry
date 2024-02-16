@@ -1,8 +1,8 @@
 {
   "chainId": "avail_6562732-1",
   "chainName": "avail_6562732-1",
-  "rpc": "http://IP:26657",
-  "rest": "http://IP:1317",
+  "rpc": "http://27.79.159.130:26657",
+  "rest": "http://27.79.159.130:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6423ac",
-    "rpc": "http://IP:8545"
+    "rpc": "http://27.79.159.130:8545"
   },
   "type": "RollApp",
   "da": "Avail",
